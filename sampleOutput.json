@@ -1,0 +1,82 @@
+{
+    "articles": [
+        {
+          "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+          },
+          "author": "Elsie Boskamp, Jon Winkler, Jillian Lucas, Kasey Caminiti and Jennifer Ernst Beaudry, USA TODAY",
+          "title": "Amazon Prime Day: 203+ last minute deals to shop before Prime Day ends - USA TODAY",
+          "description": "Amazon Prime Day 2022 is live! Shop 203+ best new Prime Day deals on Apple AirPods Pro, Blink cameras, iRobot vacuums, LG TVs and more today, July 13.",
+          "url": "https://www.usatoday.com/story/money/reviewed/2022/07/13/new-amazon-prime-day-sale-deals-2022/10054530002/",
+          "urlToImage": "https://www.gannett-cdn.com/presto/2022/07/13/USAT/107e90e6-6df1-4343-a0a6-6dc016498ceb-Best-Prime-Day-Deals-2022-sales.png?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200",
+          "publishedAt": "2022-07-14T07:59:00Z",
+          "content": "— Recommendations are independently chosen by Reviewed’s editors. Purchases you make through our links may earn us a commission.\r\nThe clock may be ticking but there's still time to shop al Amazon Pri… [+11632 chars]"
+        },
+        {
+            "source": {
+              "id": "reuters",
+              "name": "Reuters"
+            },
+            "author": null,
+            "title": "Sri Lanka protest sites calm as president's resignation awaited - Reuters.com",
+            "description": "Sri Lanka's main city, Colombo, was calm on Thursday as people waited for the resignation of President Gotabaya Rajapaksa, who fled to the Maldives to escape a popular uprising that erupted as the country struggled with an economic crisis.",
+            "url": "https://www.reuters.com/world/asia-pacific/sri-lanka-awaits-presidents-resignation-after-flight-2022-07-14/",
+            "urlToImage": "https://www.reuters.com/resizer/HQoxnt_xLB6BZVJdIuMaBcnddjQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T7WGHR6WSFORHBUWZCJ4VPZX4U.jpg",
+            "publishedAt": "2022-07-14T07:25:00Z",
+            "content": "COLOMBO, July 14 (Reuters) - Sri Lanka's main city, Colombo, was calm on Thursday as people waited for the resignation of President Gotabaya Rajapaksa, who fled to the Maldives to escape a popular up… [+4048 chars]"
+          },
+          {
+            "source": {
+              "id": "reuters",
+              "name": "Reuters"
+            },
+            "author": null,
+            "title": "In Israel, Biden to sign joint pledge to prevent Iran going nuclear - Reuters.com",
+            "description": "U.S. President Joe Biden and Israeli Prime Minister Yair Lapid will sign a joint pledge to deny Iran nuclear weapons on Thursday, closing ranks after long-running disputes between the allies over global diplomacy with Tehran.",
+            "url": "https://www.reuters.com/world/us-israel-sign-joint-pledge-denying-nuclear-weapon-iran-2022-07-14/",
+            "urlToImage": "https://www.reuters.com/resizer/hCPTbani5AdPn8zVgOj8MoPCxng=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IAE5KWJKJ5MT5LG5YWIC73FLCI.jpg",
+            "publishedAt": "2022-07-14T07:23:00Z",
+            "content": "JERUSALEM, July 14 (Reuters) - U.S. President Joe Biden and Israeli Prime Minister Yair Lapid will sign a joint pledge to deny Iran nuclear weapons on Thursday, closing ranks after long-running dispu… [+3280 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "Eonline.com"
+            },
+            "author": "McKenna Aiello",
+            "title": "Khloe Kardashian and Ex Tristan Thompson Expecting Baby No. 2 Via Surrogate - E! NEWS",
+            "description": "Khloe Kardashian and Tristan Thompson are expecting their second child together, E! News has confirmed. Get all the details on True Thompson's soon-to-be sibling below.",
+            "url": "https://www.eonline.com/news/1192662/khloe-kardashian-and-ex-tristan-thompson-expecting-baby-no-2-via-surrogate",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2018118/rs_600x600-180218140141-600-khloe-kardashian-tristan-thompson-nba-party-2-021718.jpg?fit=around%7C1080:566&output-quality=90&crop=1080:566;center,top",
+            "publishedAt": "2022-07-14T06:26:00Z",
+            "content": "Khloe Kardashian and Tristan Thompson are officially expanding their family.\r\nThe Kardashians star, 38, and Chicago Bulls player, 31, are expecting their second baby together via surrogate, multiple … [+866 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "Fox Business"
+            },
+            "author": "Tyler Olson",
+            "title": "As Biden asks Saudis for oil help, US energy reps say they're tired of 'vilification' - Fox Business",
+            "description": "American energy industry representatives are upset that President Biden is asking for more oil abroad, rather than changing his policies at home.",
+            "url": "https://www.foxbusiness.com/politics/biden-asks-saudis-oil-help-us-energy-reps-theyre-tired-vilification",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/10/0/0/Joe-Biden-Michigan-Speech.jpg?ve=1&tl=1",
+            "publishedAt": "2022-07-14T05:57:31Z",
+            "content": "As President Biden travels to Saudi Arabia this week to ask for increased energy production from the Middle Eastern nation, American energy industry representatives say Biden should be looking states… [+5828 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "2022 British Open TV schedule, coverage, live stream, watch online, channel, golf tee times at St. Andrews - CBS Sports",
+            "description": "How to watch every memorable moment of the 150th Open Championship on TV or streaming live online",
+            "url": "https://www.cbssports.com/golf/news/2022-british-open-tv-schedule-coverage-live-stream-watch-online-channel-golf-tee-times-at-st-andrews/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/07/11/48ad5e4e-ceba-4ef7-b72a-051ac6b1b4ee/thumbnail/1200x675/d83711ffc34c7ea18272b93b06f9f47d/open-150-st-andrews-flag-g.png",
+            "publishedAt": "2022-07-14T05:51:00Z",
+            "content": "The final major of the 2022 golf season has arrived with The Open Championship set to begin its historic 150th tournament at St. Andrews. The beauty of summer will surround Scotland as The Open retur… [+2939 chars]"
+          }
+    ]
+}
